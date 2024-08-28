@@ -12,9 +12,9 @@ Empathy maps are typically used during the Define stage of the design process, a
 ### Difference Between Journey Maps and Empathy Maps
 Journey maps and empathy maps are two distinct yet related tools in UX/UI design:
 
-- **Journey Map**: This tool visualizes the user's experience over time as they interact with a product or service. It maps out the different stages a user goes through, highlighting their actions, emotions, and touchpoints. The Journey Map helps designers understand the overall user experience, identify pain points, and uncover opportunities for improvement.
-
 - **Empathy Map**: This tool focuses on understanding the user's emotions, thoughts, behaviors, and needs at a specific point in their journey. It usually consists of four quadrants: what the user says, thinks, does, and feels. The Empathy Map helps designers gain deeper insights into the user's perspective, fostering empathy and guiding design decisions.
+
+- **Journey Map**: This tool visualizes the user's experience over time as they interact with a product or service. It maps out the different stages a user goes through, highlighting their actions, emotions, and touchpoints. The Journey Map helps designers understand the overall user experience, identify pain points, and uncover opportunities for improvement.
 
 ## Example Empathy Maps
 Below is an example of an empathy map that corresponds with the Photo Booth Example from the [User Persona repository](https://github.com/WatchKataThrive/User-Personas). This example demonstrates how to capture and visualize a user's internal experience during a specific moment in their journey.
